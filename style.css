@@ -29,6 +29,7 @@
   
   #video2 {
     position: absolute;
+    /* right: -30.7%; */
     right: -25%;
     top: 0;
   }
@@ -87,7 +88,7 @@
         /* width: 130%; */
         position: absolute;
         height: 100%;
-        left: -303%;
+        left: -450%;
         top: 0;
     }
   
