@@ -29,6 +29,7 @@
   
   #video2 {
     position: absolute;
+   
     right: -25%;
     top: 0;
   }
@@ -56,7 +57,7 @@
   .cir {
     width: 5vw;
     height: 10vh;
-    /* background-color: black; */
+  
     border-radius: 50%;
     position: absolute;
     right: 0;
@@ -75,7 +76,7 @@
     }
   
     #video1 {
-        /* width: 130%; */
+  
         position: absolute;
         z-index: 1;
         height: 100%;
@@ -84,25 +85,24 @@
     }
     
     #video2 {
-        /* width: 130%; */
+    
         position: absolute;
         height: 100%;
-        left: -383%;
+        left: -450%;
         top: 0;
     }
   
   
   
     .container {
-        /* width: 200px;
-        height: 200px; */
+      
         width: 55vw;
         height: 10vh;
   
-        /* background-color: aliceblue; */
+     
         position: absolute;
         position: relative;
-        /* position:  relative; */
+       
         z-index: 9;
         top: 80%;
         left: 50%;
@@ -130,3 +130,9 @@
     }
   
   }
+
+
+   
+
+
+
