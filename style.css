@@ -29,7 +29,11 @@
   
   #video2 {
     position: absolute;
+<<<<<<< HEAD
    
+=======
+    /* right: -30.7%; */
+>>>>>>> df2e13b7a5548d3c72395845151552f79ffd6e87
     right: -25%;
     top: 0;
   }
